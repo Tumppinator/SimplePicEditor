@@ -1,0 +1,24 @@
+# Build artifacts
+build/
+cmake-build-*/
+*.o
+*.obj
+
+# Qt Creator files
+*.autosave
+*.user
+*.user.ini
+
+# CMake files
+CMakeLists.txt.user
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cbp
+
+# Other temporary files
+*.log
+*.tmp
+*.swp
+*~
